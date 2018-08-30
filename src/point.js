@@ -1,6 +1,6 @@
 
 /*
-Simple Point class by Konrad Papała - https://github.com/kpion/geometry 
+Simple Point class, src:  https://github.com/kpion/geometry 
 
 Examples:
 
