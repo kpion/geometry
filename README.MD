@@ -1,5 +1,7 @@
 Geometry - JavaScript library for working with objects in a two-dimensional coordinate system. Right now there is only the Point class.
 
+In progress.
+
 Examples: 
 
 ```
